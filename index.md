@@ -286,6 +286,3 @@ ToDo: описание
 - [часть 1](https://www.youtube.com/watch?v=GcazFgy_2Ws)
 - [часть 2](https://www.youtube.com/watch?v=QsU7uzvkZFU)
 
-## ToDo: следующая тема
-
-ToDo: описание
