@@ -426,4 +426,6 @@
 
 </details>
 
-[Источник](files/400_words.pdf).
+[Источник](files/400_words.pdf)
+
+[Назад](README.md)
