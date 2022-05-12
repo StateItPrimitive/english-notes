@@ -1,5 +1,7 @@
 <details><summary markdown="span">100 самых часто используемых слов</summary>
 
+100 самых часто используемых слов:
+
 1. the;
 2. be;
 3. to;
@@ -104,6 +106,8 @@
 </details>
 
 <details><summary markdown="span">100 самых популярных существительных</summary>
+
+100 самых популярных существительных:
 
 1. time;
 2. year;
@@ -210,6 +214,8 @@
 
 <details><summary markdown="span">100 самых популярных глаголов</summary>
 
+100 самых популярных глаголов:
+
 1. be;
 2. have;
 3. do;
@@ -314,6 +320,8 @@
 </details>
 
 <details><summary markdown="span">100 самых популярных прилагательных</summary>
+
+100 самых популярных прилагательных:
 
 1. other;
 2. new;
