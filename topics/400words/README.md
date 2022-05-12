@@ -420,4 +420,4 @@
 
 [Источник](files/400_words.pdf)
 
-[Назад](../README.md)
+[Назад](/english-notes)
