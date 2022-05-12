@@ -3,7 +3,7 @@ name: Generate TOC in README.md
 on:
   push:
     branches: [main]
-    paths: ['README.md']
+    paths: ['README.md', 'topics/400words/README.md']
 
 jobs:
   build:
