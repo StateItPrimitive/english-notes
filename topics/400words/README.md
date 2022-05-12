@@ -1,4 +1,4 @@
-<details><summary markdown="span">100 самых часто используемых слов</summary>
+## 100 самых часто используемых слов
 
 1. the;
 2. be;
@@ -101,9 +101,7 @@
 99. most;
 100. us.
 
-</details>
-
-<details><summary markdown="span">100 самых популярных существительных</summary>
+## 100 самых популярных существительных
 
 1. time;
 2. year;
@@ -206,9 +204,7 @@
 99. force;
 100. education.
 
-</details>
-
-<details><summary markdown="span">100 самых популярных глаголов</summary>
+## 100 самых популярных глаголов
 
 1. be;
 2. have;
@@ -311,9 +307,7 @@
 99. kill;
 100. remain.
 
-</details>
-
-<details><summary markdown="span">100 самых популярных прилагательных</summary>
+## 100 самых популярных прилагательных
 
 1. other;
 2. new;
@@ -416,8 +410,8 @@
 99. traditional;
 100. cultural.
 
-</details>
-
 [Источник](files/400_words.pdf)
 
-[Назад](/english-notes)
+[Назад1](/english-notes)
+
+[Назад2](../../README.md)
