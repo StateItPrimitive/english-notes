@@ -203,7 +203,7 @@ ToDo: описание
   / `louse` - `lice` / `tooth` - `teeth` / `goose` - `geese` / `fish` - `fish` / `sheep` - `sheep` / `ox` - `oxen`;
 - `crisis` - `crises` / `datum` - `data` / `formula` - `formulae` / `phenomenon` - `phenomena` / `species` - `species`.
 
-Подробнее про исключения см. [здесь](https://lingualeo.com/ru/course/27/task/2402).
+Подробнее про исключения см. [здесь](https://lingualeo.com/ru/course/27/task/4158).
 
 ## Степени сравнения прилагательных:
 
